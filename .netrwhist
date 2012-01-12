@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/andrew/develop/projects/petrovchanka'
+let g:netrw_dirhist_2='/home/andrew/develop/projects/petrovchanka/www.petrovchanka.com.ua'
+let g:netrw_dirhist_3='/home/andrew/develop/projects/petrovchanka/www.petrovchanka.com.ua/js'
+let g:netrw_dirhist_4='/home/andrew/develop/projects/petrovchanka/www.petrovchanka.com.ua'
+let g:netrw_dirhist_5='/home/andrew/develop/projects/petrovchanka/www.petrovchanka.com.ua/styles'
+let g:netrw_dirhist_6='/home/andrew/.vim/bundle/bash-support'
