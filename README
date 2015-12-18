@@ -1,6 +1,6 @@
-1. cd ~
-2. git clone git@github.com:trig/vim.git 
-3. mv ~/vim ~/.vim
-4. ln -s ~/.vim/.vimrc ~/.vimrc
-5. cd ~/.vim
-6. git submodule init; git submodule update 
+cd ~
+git clone git@github.com:trig/vim.git 
+mv ~/vim ~/.vim
+ln -s ~/.vim/.vimrc ~/.vimrc
+cd ~/.vim
+git submodule init; git submodule update 
